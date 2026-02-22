@@ -1,0 +1,8 @@
+{"instruction": "Explain Ohm's law simply.", 
+ "response": "Ohm's law states that voltage equals current multiplied by resistance."}
+
+{"instruction": "What is quantum superposition?", 
+ "response": "Quantum superposition is the principle that a quantum system can exist in multiple states at the same time until measured."}
+
+{"instruction": "Define a transformer in deep learning.", 
+ "response": "A transformer is a neural network architecture that uses self-attention mechanisms to process sequential data efficiently."}
